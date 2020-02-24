@@ -1,0 +1,1 @@
+# ocr-challenge-using-pytesseract-extract-word-from-image
